@@ -3,7 +3,7 @@
 ## Final Project Batch 42
 
 ## Anggota kelompok 
-1.
+1. Siti Maryam
 2. Muhamad Alfarisy
 3.
 4.

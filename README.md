@@ -9,10 +9,8 @@
 4.
 5.
 
-Kelompokk
-
 ## link Test Plan Document
-> xxx
+> [test plan & test case](https://docs.google.com/spreadsheets/d/1eurwnt4aiFZ-UWeg9p5dUUrNOFUXPG-fiMQjbWtpXjI/edit#gid=169398898)
 
 ## Test case Document (Google Spreadsheet atau Qase.io)
 

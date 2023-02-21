@@ -5,7 +5,7 @@
 ## Anggota kelompok 
 1. Siti Maryam
 2. Muhamad Alfarisy
-3. 
+3. Faiz Watsiqul Umam
 4.
 5.
 

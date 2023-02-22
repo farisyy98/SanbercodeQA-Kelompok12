@@ -13,9 +13,9 @@
 > [test plan & test case](https://docs.google.com/spreadsheets/d/1eurwnt4aiFZ-UWeg9p5dUUrNOFUXPG-fiMQjbWtpXjI/edit#gid=169398898)
 
 ## Automation test
-terpisah pada setiap folder modulenya. toolsnya menggunakan `selenium`
+note : terpisah pada setiap folder modulenya. toolsnya menggunakan `selenium`
 
-## Reference
+## Referensi
 1. https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
 2. https://selenium-python.readthedocs.io/
 3. https://github.com/barrukurniawan/selenium_python/blob/main/automation_login.py

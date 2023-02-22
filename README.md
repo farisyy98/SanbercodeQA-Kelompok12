@@ -11,4 +11,4 @@
 > [test plan & test case](https://docs.google.com/spreadsheets/d/1eurwnt4aiFZ-UWeg9p5dUUrNOFUXPG-fiMQjbWtpXjI/edit#gid=169398898)
 
 ## Automation test
-terpisah pada setiap folder modulenya
+terpisah pada setiap folder modulenya. toolsnya menggunakan `selenium`

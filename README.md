@@ -14,3 +14,8 @@
 
 ## Automation test
 terpisah pada setiap folder modulenya. toolsnya menggunakan `selenium`
+
+## Reference
+1. https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+2. https://selenium-python.readthedocs.io/
+3. https://github.com/barrukurniawan/selenium_python/blob/main/automation_login.py

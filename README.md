@@ -2,9 +2,12 @@
 
 ![th](https://user-images.githubusercontent.com/121075721/220635807-7e3770a6-f00d-45f8-9cba-03c405be79e2.jpeg)
 
-## Deskripsi
-- Tiap modul pengujian terlampir pada folder secara terpisah
-- Untuk testPlan dan test case dapat dibuka pada link di bawah
+## Anggota kelompok 
+1. Siti Maryam
+2. Muhamad Alfarisy
+3. Faiz Watsiqul Umam
+4. M Abdul Alim Alami
+5.
 
 ## Anggota kelompok | Tugas
 1. Siti Maryam (Menu PIM - Employee List)
@@ -17,7 +20,7 @@
 > [test plan & test case](https://docs.google.com/spreadsheets/d/1eurwnt4aiFZ-UWeg9p5dUUrNOFUXPG-fiMQjbWtpXjI/edit#gid=169398898)
 
 ## Automation test
-note : terpisah pada setiap folder modulenya. toolsnya menggunakan `selenium`
+note : terpisah pada setiap folder modulenya. toolsnya menggunakan `selenium` `Cypress` 
 
 ## Referensi
 1. https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test

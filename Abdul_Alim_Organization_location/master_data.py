@@ -1,0 +1,10 @@
+class addData():
+    name = "Abdul Alim"
+    city = "Jakarta"
+    pCode = "1020"
+    phone = "081234567890"
+    address = "Jakarta selatan"
+    state = "Jakarta Selatan"
+    # country = "sudah masuk dalam element.py"
+    fax = "1234567889"
+    notes = "New location"
